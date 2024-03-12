@@ -64,5 +64,11 @@ To run the Disaster Assessment Tool, you need to have the following installed:
 
 9. Close the GUI window when finished.
 
+## Sample Datasets for testing
+
+1. https://drive.google.com/file/d/1G3ogfIhWLvWjjhIyM4Wg9dbO3PrZ9DM-/view?usp=drive_link
+
+2. https://drive.google.com/file/d/1iDBqdD9hW4thOzRPg9SjdJo3t7-St2Oh/view?usp=drive_link
+
 
 
