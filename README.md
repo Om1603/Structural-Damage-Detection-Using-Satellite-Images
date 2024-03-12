@@ -69,5 +69,8 @@ To run the Disaster Assessment Tool, you need to have the following installed:
 
 2. https://drive.google.com/file/d/1iDBqdD9hW4thOzRPg9SjdJo3t7-St2Oh/view?usp=drive_link
 
+## Example Screenshot:
+![Screenshot 2024-03-12 073427](https://github.com/Om1603/Structural-Damage-Detection-Using-Satellite-Images/assets/82240153/a761c940-96ab-4b1f-9c49-3fd991c91d61)
+
 
 
