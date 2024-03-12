@@ -37,7 +37,7 @@ To run the Disaster Assessment Tool, you need to have the following installed:
 3. Install the required Python packages using pip:
 
     ```bash
-    pip install -r requirements.txt
+    pip3 install -r requirements.txt
     ```
 
 ## Usage
@@ -47,7 +47,7 @@ To run the Disaster Assessment Tool, you need to have the following installed:
 2. Run the `main.py` file:
 
     ```bash
-    python main.py
+    python3 main.py
     ```
 
 3. The Disaster Assessment Tool GUI window will open.
