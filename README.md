@@ -7,7 +7,6 @@ This tool is designed to assist in the assessment of disaster-affected areas usi
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Requirements
 
